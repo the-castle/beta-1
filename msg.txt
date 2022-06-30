@@ -1,1 +1,1 @@
-{'num':'1', 'msgs':'\nิ฿ัว๐ แรฮสํวั฿ใ ๆวสำวศ รึๆวม วแฺํไ\nThank you for choosing AThwaMods\n'}
+{'num':'1', 'msgs':'\nุดูุฑุงู ูุฃุฎุชูุงุฑูู… ูุงุชุณุงุจ ุฃุถูุงุก ุงูุนูู\nThank you for choosing AThwaMods\n'}
